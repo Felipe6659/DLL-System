@@ -74,7 +74,7 @@ namespace GUI
 
         private void TelaInicial_DoubleClick(object sender, EventArgs e)
         {
-            FormBorderStyle = FormBorderStyle.None;
+            FormBorderStyle = FormBorderStyle.Sizable;
             WindowState = FormWindowState.Maximized;
             TopMost = true;
         }
@@ -86,6 +86,13 @@ namespace GUI
             frmCadastroFuncionarios f = new frmCadastroFuncionarios();
             f.ShowDialog();
             f.Dispose();
+        }
+
+        private void clienteToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmCadastroCliente cl = new frmCadastroCliente();
+            cl.ShowDialog();
+            cl.Dispose();
         }
     }
     }
