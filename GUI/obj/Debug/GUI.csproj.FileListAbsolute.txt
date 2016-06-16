@@ -19,3 +19,4 @@ C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DLL\GUI\obj\Debug\GUI.frm
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DLL\GUI\obj\Debug\GUI.frmCadastroTelefoneFornecedor.resources
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DLL\GUI\obj\Debug\GUI.frmConsultaTelefoneFornecedor.resources
 C:\Users\Patrick\Documents\Visual Studio 2015\Projects\DLL\GUI\obj\Debug\GUI.frmCadastroFuncionarios.resources
+C:\Users\Patrick\documents\visual studio 2015\Projects\DLL\GUI\obj\Debug\GUI.frmCadastroCliente.resources
